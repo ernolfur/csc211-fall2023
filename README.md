@@ -1,20 +1,20 @@
-## CSC 211 - Object Oriented Programming (Fall 2023)
+## CSC 211 - Computer Programming (Fall 2023)
 
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
-**Teaching Assistants:** Yemi Fasina, Matt Hogan, Nadia Sousa, Vincent Zhuang<br>
+**Teaching Assistants:** <br>
 
 **Office Hours Schedule**
 <!--Location: Tyler Hall ~ Third (top) Floor Lounge-->
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Monday |   Nadia <br> Yemi <br> Matt|   10:00a – 12:00p <br> 12:00p - 1:00p <br> 1:00p - 2:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
-|Tuesday | Mike |   2:00p - 3:00p| &emsp; &emsp; Tyler 137 |
-|Wednesday   |  Nadia <br> Yemi |  9:00a – 10:00a <br> 2:00p - 4:00p | Tyler first floor lounge <br> Tyler third floor lounge |
-|Thursday   |  Vincent | 1:00p - 2:30p| &emsp; &emsp; Tyler 052 |
-|Friday    |   Matt|  11:00a - 12:00p | Tyler third floor lounge |
+|Monday |   TBD|   10:00a – 12:00p <br> 12:00p - 1:00p <br> 1:00p - 2:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
+|Tuesday | TBD |   2:00p - 3:00p| &emsp; &emsp; Tyler 137 |
+|Wednesday   |  TBD |  9:00a – 10:00a <br> 2:00p - 4:00p | Tyler first floor lounge <br> Tyler third floor lounge |
+|Thursday   |  TBD | 1:00p - 2:30p| &emsp; &emsp; Tyler 052 |
+|Friday    |   TBD|  11:00a - 12:00p | Tyler third floor lounge |
 
 **Discussion Session**
 <br> Location: Tyler 052
@@ -23,8 +23,8 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   Vincent |   1:00p – 2:00p  | &emsp; &emsp; &ensp; Tyler 052| 
-|Wednesday |   Matt |   4:00p – 5:00p  |Hybrid / Zoom & Tyler 052|
+|Tuesday |   TBD |   1:00p – 2:00p  | &emsp; &emsp; &ensp; Tyler 052| 
+|Wednesday |   TBD |   4:00p – 5:00p  |Hybrid / Zoom & Tyler 052|
 
 
 **Lab**
@@ -32,9 +32,9 @@
 
 | Day | Staff Member |  Time | Room |
 | --- | --- | --- |--- |
-|Monday |   Vincent, Matt, Nadia, Yemi | 2:00p - 3:45p  | Tyler 055 |
-|Friday |   Vincent, Matt, Nadia, Yemi |   12:00p - 1:45p| Library 166 |
-|Friday |   Vincent, Matt, Nadia, Yemi |   2:00p - 3:45p | Library 166 |
+|Monday |   TBD | 2:00p - 3:45p  | Tyler 055 |
+|Friday |   TBD|   12:00p - 1:45p| Library 166 |
+|Friday |   TBD |   2:00p - 3:45p | Library 166 |
 
 ### Course Overview
 
