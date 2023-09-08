@@ -1,7 +1,7 @@
 ## CSC 211 - Computer Programming (Fall 2023)
 
 ### Course Instructors
-**Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
+**Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 132
 
 **Teaching Assistants:** <br>
 
