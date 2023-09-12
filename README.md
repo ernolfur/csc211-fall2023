@@ -10,7 +10,7 @@
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Monday |   Matt, Jacob|   12:00p - 1:00p <br> 5:00p - 6:00p  | Tyler third floor lounge <br> Virtual  |
+|Monday |   Matt, Jacob|   12:00p - 1:00p <br> 5:00p - 6:00p  | Tyler third floor lounge <br> [Virtual](https://us05web.zoom.us/j/9563802283?pwd=cHRPN0NLWFU4Q2hoVks0NkJRUGRZQT09)  |
 |Tuesday | Mike, Jacob |  1:45p - 3:00p, 2:00p - 3:00p| Tyler 132 <br> Tyler third floor lounge  |
 |Wednesday   |  Matt |  1:00p - 2:00p  | Tyler thirf floor lounge  |
 |Thursday   |  Puja, Yemi, Jacob | 10:00a - 11:00a <br> 10:30a - 12:30p <br> 2:00p - 3:00p | Tyler third floor lounge  |
