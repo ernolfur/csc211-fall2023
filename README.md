@@ -10,11 +10,11 @@
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Monday |   TBD|   10:00a – 12:00p <br> 12:00p - 1:00p <br> 1:00p - 2:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
-|Tuesday | TBD |   2:00p - 3:00p| &emsp; &emsp; Tyler 137 |
-|Wednesday   |  TBD |  9:00a – 10:00a <br> 2:00p - 4:00p | Tyler first floor lounge <br> Tyler third floor lounge |
-|Thursday   |  TBD | 1:00p - 2:30p| &emsp; &emsp; Tyler 052 |
-|Friday    |   TBD|  11:00a - 12:00p | Tyler third floor lounge |
+|Monday |   Matt, Jacob|   12:00p - 1:00p <br> 5:00p - 6:00p  | Tyler third floor lounge <br> Virtual  |
+|Tuesday | Jacob |   2:00p - 3:00p| Tyler third floor lounge  |
+|Wednesday   |  Matt |  1:00p - 2:00p  | Tyler first floor lounge  |
+|Thursday   |  Puja, Yemi, Jacob | 10:00a - 11:00a <br> 10:30a - 12:30p <br> 2:00p - 3:00p | Tyler third floor lounge  |
+|Friday    |   Jenny |  5:30p - 6:30p | Tyler third floor lounge |
 
 **Discussion Session**
 <br> Location: Tyler 052
@@ -23,8 +23,8 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   TBD |   1:00p – 2:00p  | &emsp; &emsp; &ensp; Tyler 052| 
-|Wednesday |   TBD |   4:00p – 5:00p  |Hybrid / Zoom & Tyler 052|
+|Tuesday |   Matt |   4:00p - 5:00p  | Tyler 3rd Floor| 
+|Wednesday |   Jenny |   4:00p - 5:00p  |Tyler 3rd Floor|
 
 
 **Lab**
@@ -32,9 +32,9 @@
 
 | Day | Staff Member |  Time | Room |
 | --- | --- | --- |--- |
-|Monday |   TBD | 2:00p - 3:45p  | Tyler 055 |
-|Friday |   TBD|   12:00p - 1:45p| Library 166 |
-|Friday |   TBD |   2:00p - 3:45p | Library 166 |
+|Monday |   Matt, Yemi, Puja | 2:00p - 3:45p  | Tyler 055 |
+|Friday |   Matt, Jenny, Jacob, Yemi, Puja|   12:00p - 1:45p| Library 166 |
+|Friday |    Matt, Jenny, Jacob, Yemi |   2:00p - 3:45p | Library 166 |
 
 ### Course Overview
 
