@@ -14,7 +14,7 @@
 |Tuesday | Mike, Jacob |  1:45p - 3:00p, 2:00p - 3:00p| Tyler 132 <br> Tyler third floor lounge  |
 |Wednesday   |  Matt |  1:00p - 2:00p  | Tyler thirf floor lounge  |
 |Thursday   |  Puja, Yemi, Jacob | 10:00a - 11:00a <br> 10:30a - 12:30p <br> 2:00p - 3:00p | Tyler third floor lounge  |
-|Friday    |   Jenny |  5:30p - 6:30p | Tyler third floor lounge |
+|Friday    |   Jenny |  5:30p - 6:30p | [Virtual](https://zoom.us/j/4816349955?pwd=Rk82TmMwZ1hpRytoQTlic3dJTkFldz09) |
 
 **Discussion Session**
 <br> Location: Tyler 052
