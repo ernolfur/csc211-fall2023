@@ -3,21 +3,27 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 132
 
-**Teaching Assistants:** <br>
+**Lecture:** Tue/Thurs | 12:30p - 1:45p | East Hall AUD
+
+**Teaching Assistants:** 
+
+* **Graduate:**  Puja Ghosh <br>
+
+* **Undergraduate:** Jacob Dauphinais, Yemi Fasina, Matt Hogan, Jenny You <br>
 
 **Office Hours Schedule**
 <!--Location: Tyler Hall ~ Third (top) Floor Lounge-->
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Monday |   Matt, Jacob|   12:00p - 1:00p <br> 5:00p - 6:00p  | Tyler third floor lounge <br> [Virtual](https://us05web.zoom.us/j/9563802283?pwd=cHRPN0NLWFU4Q2hoVks0NkJRUGRZQT09)  |
-|Tuesday | Mike, Jacob |  1:45p - 3:00p, 2:00p - 3:00p| Tyler 132 <br> Tyler third floor lounge  |
+|Monday |   Matt <br> Jacob|   12:00p - 1:00p <br> 5:00p - 6:00p  | Tyler third floor lounge <br> &emsp; &emsp; &emsp;[Zoom](https://us05web.zoom.us/j/9563802283?pwd=cHRPN0NLWFU4Q2hoVks0NkJRUGRZQT09)  |
+|Tuesday | Mike <br> Jacob |  1:45p - 3:00p <br> 2:00p - 3:00p| &emsp; &emsp; Tyler 132 <br> Tyler third floor lounge  |
 |Wednesday   |  Matt |  1:00p - 2:00p  | Tyler third floor lounge  |
-|Thursday   |  Puja, Yemi, Jacob | 10:00a - 11:00a <br> 10:30a - 12:30p <br> 2:00p - 3:00p | Tyler third floor lounge  |
-|Friday    |   Jenny |  5:30p - 6:30p | [Virtual](https://zoom.us/j/4816349955?pwd=Rk82TmMwZ1hpRytoQTlic3dJTkFldz09) |
+|Thursday   |  Puja <br> Yemi <br> Jacob | 10:00a - 11:00a <br> 10:30a - 12:30p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
+|Friday    |   Jenny |  5:30p - 6:30p | &emsp; &emsp; &emsp; [Zoom](https://zoom.us/j/4816349955?pwd=Rk82TmMwZ1hpRytoQTlic3dJTkFldz09) |
 
 **Discussion Session**
-<br> Location: Tyler 052
+<br> <!--Location: Tyler 052-->
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
