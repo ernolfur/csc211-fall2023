@@ -18,8 +18,8 @@
 | --- | --- | --- | --- |
 |Monday |   Matt <br> Jacob|   12:00p - 1:00p <br> 5:00p - 6:00p  | Tyler third floor lounge <br> &emsp; &emsp; &emsp;[Zoom](https://us05web.zoom.us/j/9563802283?pwd=cHRPN0NLWFU4Q2hoVks0NkJRUGRZQT09)  |
 |Tuesday | Mike <br> Jacob |  1:45p - 3:00p <br> 2:00p - 3:00p| &emsp; &emsp; Tyler 132 <br> Tyler third floor lounge  |
-|Wednesday   |  Matt |  1:00p - 2:00p  | Tyler third floor lounge  |
-|Thursday   |  Puja <br> Yemi <br> Jacob | 10:00a - 11:00a <br> 10:30a - 12:30p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge <br> Tyler third floor lounge |
+|Wednesday   |  Puja <br> Matt |  8:00a - 9:00a <br> 1:00p - 2:00p  | Tyler third floor lounge <br> Tyler third floor lounge  |
+|Thursday   |  Yemi <br> Jacob |  10:30a - 12:30p <br> 2:00p - 3:00p | Tyler third floor lounge <br> Tyler third floor lounge |
 |Friday    |   Jenny |  5:30p - 6:30p | &emsp; &emsp; &emsp; [Zoom](https://zoom.us/j/4816349955?pwd=Rk82TmMwZ1hpRytoQTlic3dJTkFldz09) |
 
 **Discussion Session**
