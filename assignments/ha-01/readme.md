@@ -1,4 +1,4 @@
-## Homework Assignment 01 (Due Date 10/1)
+## Homework Assignment 01 (Due Date 10/01/23)
 
 This assignment is about operators, expressions, data types, and selection statements. **Arrays, functions, and loops are not allowed. The only libraries allowed for this assignment are `<iostream>` and `<iomanip>`**.  This assignment is to be completed individually. You are not allowed to share your code with other students. The assignment is worth a total of 100 points. If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
 
