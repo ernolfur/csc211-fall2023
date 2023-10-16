@@ -44,7 +44,7 @@ This will create an array of size 10 for us to use.
 
 :white_check_mark: Question 3. What do you think will happen if a string has no null terminator?
 
-Now its a valid question to wonder why every string must have a null terminator at the end. The answer is actully rather simple, it makes iterating over the string trivial. If we observe the [ASCII table](https://www.bing.com/widget/t/ascii?q=ascii&height=370&pos=1&tag=afcd98f5cab196c1) and look for the ASCII code associated with the character Null we will find that it has ASCII code 0. 
+Now its a valid question to wonder why every string must have a null terminator at the end. The answer is actully rather simple, it makes iterating over the string trivial. If we observe the [ASCII table](https://www.asciitable.com) and look for the ASCII code associated with the character Null we will find that it has ASCII code 0. 
 
 :white_check_mark: Question 4. What does this mean we can do with strings to look for where it ends?
 
