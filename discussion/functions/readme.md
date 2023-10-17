@@ -43,7 +43,7 @@ As we know, a function of type ``void`` has no return value, but we can still us
 Knowing this, try to rewrite the power function from example #1 using the code provided below. You need not modify the ``main()`` function.
 
 ```c++
-void power (int num, int ext, int * result) {
+void power (int num, int exp, long int & result) {
     // Complete this function so result = num^exp.
     // DO NOT use the built-in pow() function from C++.
 }
@@ -55,6 +55,8 @@ int main () {
 
     long int result;
     power(num_in, exp_in, result);
+
+    std::cout << "Result: " << result << std::endl;
 
     return 0;
 }
