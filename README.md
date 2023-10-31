@@ -28,7 +28,7 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   Matt |   4:00p - 5:00p  | Hybrid: Tyler 053 & [Zoom](https://uri-edu.zoom.us/j/98120583033?pwd=T2JGMTRwb2xYL1doc0dwZUZZZUlBQT09)| 
+|Tuesday |   Matt |   4:00p - 5:00p  | Online: [Zoom](https://uri-edu.zoom.us/j/98120583033?pwd=T2JGMTRwb2xYL1doc0dwZUZZZUlBQT09)| 
 |Wednesday |   Jenny |   1:00p - 2:00p  |Tyler 3rd Floor|
 
 
