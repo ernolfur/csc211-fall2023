@@ -1,4 +1,4 @@
-# Discussion 07: Recursion
+# Recursion
 
 This week, we covered the idea of recursion. It may seem a little daunting at first, but rest assured it becomes easier over time!
 
