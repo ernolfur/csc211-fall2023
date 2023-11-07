@@ -1,5 +1,10 @@
 #include <iostream>
 
+// Implement the following public methods for the class date
+// add_years, which adds a number of years to the current date
+// add_months, which adds a number of months to the current date
+// add_days, which adds a number of days to the current date
+
 class Date {
     private:
         int month;
@@ -9,6 +14,11 @@ class Date {
     public:
         
         void set(int m, int d, int y);
+
+        void addYears(int someYear);
+        void addMonths(int someMonth);
+        void addDay(int someDay);
+        
         void print();
 };
 
@@ -23,13 +33,26 @@ void Date::set(int m, int d, int y) {
     year = y;
 }
 
+void Date::addYears(int someYear){
+    year += someYear;
+}
+
+void Date::addMonths(int someMonth){
+    month += someMonth;
+}
+
+void Date::addDay(int someDay){
+   day  += someDay;
+}
 
 int main(){
 
     Date today;
 
-    today.set(11, 04, 2023);
+    today.set(11, 07, 2023);
     today.print();
+
+
     today.addYears(1);
     today.addMonths(1);
     today.addDay(1);
