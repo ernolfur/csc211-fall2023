@@ -52,7 +52,7 @@ grid.txt must be in the same directory with the other files you're working with
 ---
 For each problems 1-3 you will implement a member function using the provided headers. You may add any number of helper methods but do *not* change the headers of the functions as these are what will be called by the autograder in order to test your solution.
 
-Additionally, for problems 1-3 your solution *must* implement recursive backtracking. To implement recursive backtracking, you should create private recursive helper functions inside of the class which do the actual solving. Then simply call these functions from the public function called by the autograder.
+Additionally, for problems 1-3 your solution *should* implement recursive backtracking, but its not required. To implement recursive backtracking, you should create private recursive helper functions inside of the class which do the actual solving. Then simply call these functions from the public function called by the autograder.
 
 Problem 4 will utilize the `bitmap_image` library which was shown in class, for this question you do *not* need to create your own class, the objective for these questions is that you learn to utilize classes in a pre-built library. This in particular means reading the official documentation and examples in order to learn how the library works.
 
