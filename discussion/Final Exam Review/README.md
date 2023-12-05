@@ -493,6 +493,6 @@ For your exam, you should be comfortable drawing a recursion tree for something 
 
 # Conclusion
 
-You've got this - have a great summer and good luck on your future endeavors!
+You've got this - have a great holiday break and good luck on your future endeavors!
 
 ![That's All Folks!](https://www.icegif.com/wp-content/uploads/thats-all-folks-icegif.gif)
