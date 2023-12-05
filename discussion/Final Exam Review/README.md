@@ -19,7 +19,7 @@
 
 ## Exam Information
 
-The final exam will be held in person in your normal classroom on Thurs. May 4 @ 3:00pm-5:00pm.
+The final exam will be held in person in your normal classroom on Thurs. December 14 @ 11:30am-1:30pm.
 
 Your final exam consists of 13-15 questions which make up a total of 110 pts. Just like your previous exams and programming assignments, it will be graded out of 100 pts. You will be expected to answer true/false, multiple choice, code tracing, and code implementation questions. The exam will cover all of the concepts and material that we’ve discussed this semester.
 
